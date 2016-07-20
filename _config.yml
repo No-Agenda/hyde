@@ -10,7 +10,7 @@ permalink:        pretty
 title:            No-Agenda Github
 tagline:          'Be a code-donor, not a boner'
 description:      'A repository of <a href="http://www.noagendashow.com/" target="_blank">No Agenda podcast</a> content and open-source software projects related to the best podcast in the universe. Made by <a href="https://github.com/reelsense" target="_blank">@reelsense</a>.'
-url:              http://www.noagendashow.com/
+url:              https://no-agenda.github.io
 baseurl:          https://no-agenda.github.io
 
 author:
