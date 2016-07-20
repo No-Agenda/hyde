@@ -1,6 +1,8 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
+
+# Gems
 gems: [jekyll-paginate, jekyll-gist]
 
 # Permalinks
@@ -19,7 +21,7 @@ author:
 
 
 # Custom vars
-version:          1.1
+version:          1.2
 
 github:
   repo:           https://github.com/No-Agenda/
