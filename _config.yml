@@ -7,19 +7,19 @@ gems: [jekyll-paginate, jekyll-gist]
 permalink:        pretty
 
 # Setup
-title:            No Agenda Github
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          https://no-agenda.github.io/
+title:            No-Agenda Github
+tagline:          'Be a code-donor, not a boner'
+description:      'A repository of <a href="http://www.noagendashow.com/" target="_blank">No Agenda podcast</a> content and open-source software projects related to the best podcast in the universe. Made by <a href="https://github.com/reelsense" target="_blank">@reelsense</a>.'
+url:              http://www.noagendashow.com/
+baseurl:          https://no-agenda.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Bryan'
+  url:            http://bringyourwallet.com
 
 
 # Custom vars
-version:          2.1.0
+version:          1.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/No-Agenda
