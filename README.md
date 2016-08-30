@@ -8,3 +8,9 @@ This is a repository of No Agenda podcast content and open-source software proje
 ## Contribute.
 
 We need contributors to this repositor and the [No Agenda github](No-Agenda).
+
+There are interesting No Agenda projects like the [Link Analysis](https://github.com/No-Agenda/Link-Analysis) repository.
+![](/public/atom-markdow-mindmap-example.gif)
+
+Be a code donor, not a boner!
+TYFYC
