@@ -14,7 +14,7 @@ title: Links
 
 [No Agenda Player](https://www.noagendaplayer.com) and search engine
 
-[No Agenda Summaries](http://callclooney.org/)
+[No Agenda Summaries](http://callclooney.org/) and text search engine
 
 [No Agenda Archive](http://noagendanation.com/archive)
 
