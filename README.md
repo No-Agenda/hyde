@@ -5,7 +5,8 @@ No Agenda is an award-winning podcast hosted by Adam Curry and John C. Dvorak an
 This is a repository of No Agenda podcast content and open-source software projects for the best podcast in the universe.
 
 ![](/public/na-github.png)
-## Contribute.
+
+## Contribute
 
 We need contributors to this repositor and the [No Agenda github](No-Agenda).
 
