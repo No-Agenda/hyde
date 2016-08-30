@@ -14,7 +14,11 @@ title: Links
 
 [No Agenda Player](https://www.noagendaplayer.com) and search
 
-[No Agenda Archive](http://archive.noagendanotes.com/)
+[No Agenda Archive](http://noagendanation.com/archive)
+
+[No Agenda Archive 2](http://archive.noagendanotes.com/)
+
+[No Agenda Torrents](http://noagendatorrents.com/)
 
 [No Agenda BookClub](http://noagendabookclub.com/)
 
