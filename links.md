@@ -14,7 +14,7 @@ title: Links
 
 [No Agenda Player](https://www.noagendaplayer.com) and search engine
 
-[No Agenda Summaries](https://github.com/No-Agenda/NASummaries) forked mirror from K8TIY
+[No Agenda Summaries](http://callclooney.org/)
 
 [No Agenda Archive](http://noagendanation.com/archive)
 
