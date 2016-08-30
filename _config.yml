@@ -22,7 +22,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          1.3
+version:          1.4
 
 github:
   repo:           https://github.com/No-Agenda
