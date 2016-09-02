@@ -22,6 +22,8 @@ title: Links
 
 [No Agenda Torrents](http://noagendatorrents.com/)
 
+[No Agenda Resource List](https://gitmolist.org/)
+
 [No Agenda BookClub](http://noagendabookclub.com/)
 
 [No Agenda Soundboard](http://noagendasound.com/)
