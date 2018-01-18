@@ -8,8 +8,8 @@ Podcast ................. No Agenda
 Publisher ............... noagendashow.com
 Quality ................. 96Kbps
 Codec ................... MP3
-Released ................ 2013-07-15
-Episodes ................ 1-500
+Released ................ 2018-01-18
+Episodes ................ 1-1000
 ```
 
 ## Description
